@@ -10,7 +10,7 @@
 <body>
  <form action="adicao.php" method="post">
 <div class="container">
-Insira o primeiro número: <input type="text" name="n1">
+Insira o tres número: <input type="text" name="n1">
 <br>
 Insira o segundo número: <input type="text" name="n2">
 <br>
